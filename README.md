@@ -1,4 +1,4 @@
-# -banking-project
+# -banking-project-SQL
 
 L'obiettivo del progetto è creare una tabella denormalizzata che contenga indicatori comportamentali sul cliente, 
 calcolati sulla base delle transazioni e del possesso di prodotti.
