@@ -7,7 +7,7 @@ Lo scopo è creare le feature per un possibile modello di machine learning super
 
 Indicatori da creare:
 
-Ogni indicatore va riferito al singolo id_cliente.
+Ogni indicatore va riferito al singolo **id_cliente**.
 
 1. Età
 
