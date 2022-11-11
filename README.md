@@ -30,3 +30,12 @@ Ogni indicatore va riferito al singolo **id_cliente**.
 10. Importo transato in uscita per tipologia di conto (un indicatore per tipo)
 
 11. Importo transato in entrata per tipologia di conto (un indicatore per tipo)
+
+
+## Files nella repository
+
+- [Database](https://github.com/GabrieleCarl/-banking-project-SQL/blob/main/db_bancario.sql)
+
+- [Query](https://github.com/GabrieleCarl/-banking-project-SQL/blob/main/project-query.sql)
+
+- [Output](https://github.com/GabrieleCarl/-banking-project-SQL/blob/main/output_db_bancario.csv)
